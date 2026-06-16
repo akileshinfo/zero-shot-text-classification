@@ -1,0 +1,44 @@
+SAMPLE INPUT :
+
+1. I love watching football matches and following my favorite teams.
+
+2. Artificial Intelligence is transforming the healthcare industry.
+
+3. The stock market witnessed a significant rise today.
+
+4. Scientists have discovered a new species in the Amazon rainforest.
+
+5. The latest smartphone offers advanced camera features and better battery life.
+
+6. Regular exercise and a balanced diet are essential for maintaining good health.
+
+7. The government announced new policies to improve education.
+
+8. A recent movie release has received positive reviews from critics.
+
+
+OUTPUT :
+
+Input: I love watching football matches and following my favorite teams.
+Predicted Label: Sports
+
+Input: Artificial Intelligence is transforming the healthcare industry.
+Predicted Label: Technology
+
+Input: The stock market witnessed a significant rise today.
+Predicted Label: Finance
+
+Input: Scientists have discovered a new species in the Amazon rainforest.
+Predicted Label: Science
+
+Input: The latest smartphone offers advanced camera features and better battery life.
+Predicted Label: Technology
+
+Input: Regular exercise and a balanced diet are essential for maintaining good health.
+Predicted Label: Health
+
+Input: The government announced new policies to improve education.
+Predicted Label: Politics
+
+Input: A recent movie release has received positive reviews from critics.
+Predicted Label: Entertainment
