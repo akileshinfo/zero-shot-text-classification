@@ -44,10 +44,6 @@ This project implements zero-shot text classification using transformer-based pr
 * Sentiment Analysis
 
 ## Project Preview
-![Uploading Screenshot 2026-06-16 083943.png…]()
-![Uploading Screenshot 2026-06-16 084116.png…]()
-<img width="1918" height="915" alt="Screenshot 2026-06-16 084036" src="https://github.com/user-attachments/assets/eceb663c-00c3-4cbe-96a2-3e3f0812e76d" />
-
 ### Classification Results
 ![Uploading Screenshot 2026-06-16 084257.png…]()
 
