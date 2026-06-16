@@ -43,9 +43,6 @@ This project implements zero-shot text classification using transformer-based pr
 * Text Analytics
 * Sentiment Analysis
 
-## Project Preview
-### Classification Results
-![Uploading Screenshot 2026-06-16 084257.png…]()
 
 ## Author
 
